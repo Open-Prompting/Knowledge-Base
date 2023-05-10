@@ -1,0 +1,4 @@
+baseURL = 'https://bureauprompts.pages.dev/'
+languageCode = 'en-us'
+title = 'Не утвердили название'
+theme = "prompters"

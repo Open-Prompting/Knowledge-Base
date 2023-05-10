@@ -1,0 +1,291 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.horizontal_meta{
+  display: none;
+  grid-row: 1/2;
+}
+
+.instruments_horizontal p{
+  /* overflow: hidden; */
+  /* max-height: 5em; */
+}
+
+a, a:hover, a:visited, a:active {
+  color: inherit;
+  text-decoration: none;
+}
+
+html {
+  font-size: 20px;
+  font-family: Montserrat;
+}
+
+body {
+  display:flex;
+  flex-direction: column;
+  align-items: left
+}
+
+header, article, pre {
+display: grid;
+max-width: 1116px;
+}
+
+header, article {
+  margin-left: 5vw;
+  margin-right: 150px;
+}
+
+header h1 {
+  font-size: clamp(1rem, 15vw, 10rem);
+  /* font-size: 13vw; */
+}
+
+article {
+  max-width: 1130px;
+  /* min-width: 900px; */
+  /* grid-template-columns: repeat(12, 1fr); */
+  grid-template-columns: repeat(auto-fit, minmax(1px, 1fr));
+  column-gap: 32px;
+}
+
+.content {
+  grid-column: 1 / 9;
+  grid-row: 1/2;
+  border: 3px solid black;
+  line-height: 1.7em;
+  padding-bottom: 2em;
+}
+
+.content p, ol {
+  margin: 0 2rem 3em;
+}
+
+.content h2, .aside h2 {
+  font-size: 30px;
+  line-height: 36px;
+  padding: 1em 2rem .5em;
+}
+
+.content h2:not(:first-child) {
+  border-top: 3px solid black;
+}
+
+.content ol{
+  padding-left: 3rem;
+}
+
+pre {
+  margin-top: 1em;
+  max-width: 100%;
+}
+
+code {
+  /* max-width: 100%; */
+  white-space: pre-line;
+  background-color: black;
+  padding: 2em 4em 3em 1em;
+  color: #F5F5F5;
+  transform: rotate(-4.4deg);
+}
+
+blockquote {
+  background-color: #00EF00;
+  padding: 2em;
+  border-radius: 1.6em;
+  transform: rotate(-4.4deg);
+}
+
+header h1 {
+  text-transform: capitalize;
+  /* font-size: 203px; */
+  grid-row: 1;
+  grid-column: 1;
+  margin: 10px 0 0.1em;
+}
+
+nav {
+  grid-row: 1;
+  grid-column: 1;
+  margin-left: auto;
+  margin-top: clamp(21px, 11vw, 150px);
+}
+
+nav ul {
+  padding: 0.4em 0 0.4em 1.5em;
+  display: flex;
+  gap: 22px;
+  list-style-type: none;
+  font-size: 14px;
+  background-color: rgb(255, 255, 255);
+}
+
+.aside {
+  display: flex;
+  flex-direction: column;
+  grid-column: 9/13;
+  grid-row: 1/2;
+  gap: 2em
+}
+
+.instruments, .tricks {
+  position: relative;
+
+  display:flex;
+  flex-direction: column;
+  /* justify-content: left; */
+  align-items: center
+}
+
+.aside h2 {
+  /* margin-bottom: 40px; */
+  padding-bottom: 1em;
+  padding-top: 0.6em;
+}
+
+.aside p {
+  /* margin-bottom: 11px; */
+  list-style: none;
+  line-height: 1.5em;
+  padding: 0.5em;
+}
+
+.aside h2, .aside p {
+  background-color: black;
+  border-radius: 1.6em;
+  color: #F5F5F5;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.tricks h2, .tricks p {
+  background-color: #00EF00;
+  color: black;
+}
+
+.long_soplya {
+  background-color: black;
+  height: 40px;
+  width: 30%;
+  position: relative;
+}
+
+.short_soplya {
+  background-color: black;
+  height: 11px;
+  width: 30%;
+  position: relative;
+}
+
+.short_soplya_tricks {
+  background-color: #00EF00;
+  height: 11px;
+  width: 30%;
+  position: relative;
+}
+
+.long_soplya_right,
+.long_soplya_left,
+.short_soplya_right,
+.short_soplya_left{
+  height: 100%;
+  width: 60%;
+  border-radius: 12px;
+  background-color: white;
+  position: absolute;
+}
+
+.long_soplya_right  {
+  left: 60%;
+}
+.long_soplya_left {
+  right: 60%
+}
+
+.short_soplya_right  {
+  left: 90%;
+}
+.short_soplya_left {
+  right: 90%
+}
+
+.intro {
+  grid-column: 1 / 8;
+  margin-bottom: 2em;
+}
+
+.cards_container {
+  grid-column: 1 / 8;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  column-gap: 20px;
+
+}
+.card {
+  grid-column-start: span 3;
+  border-right: 3px solid black;
+}
+
+@media (max-width: 1020px)
+{
+  .aside {
+    display: none;
+  }
+
+  .content {
+    grid-column: 1 / 12;
+  }
+
+  article, pre {
+    max-width:700px;
+    margin-right: 5vw;
+    }
+
+  .horizontal_meta {
+    display: block;
+    margin-bottom: 2em;
+  }
+
+  .instruments_horizontal, .tricks_horizontal {
+      display: flex;
+      align-items: center;
+      justify-items: center;
+    }
+    .content {
+    grid-row: 2/3;
+  }
+}
+
+@media (min-width: 1020px) {
+}
+
+.instruments_horizontal *, .tricks_horizontal * {
+  background-color: black;
+  color:rgb(255, 255, 255);
+  padding: 1em;
+  border-radius: 25px;
+}
+
+.long_soplya_horizontal, .short_soplya_horizontal{
+  background-color: black;
+  min-width: 4em;
+  height: 10px;
+  position: relative;
+  bottom: 0.1em;
+  padding: 0;
+  border-radius: 0px;
+}
+
+.tricks_horizontal * {
+  background-color: #00EF00;
+  color:black;
+}
+
+.short_soplya_horizontal {
+  min-width: 1em;
+  min-height: 1em;
+}

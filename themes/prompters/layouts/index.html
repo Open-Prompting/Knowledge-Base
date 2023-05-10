@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="index">
+<div class="intro">
+  <p>Коллекция приёмов и рецептов для нейросетей, которые помогают избавиться от рутинных задач.</p>
+</div>
+
+<div class="cards_container">
+{{ range $index, $value := .Site.RegularPages}}
+  <div class="card">
+  <h2>{{add $index 1 }}</h2>
+  <a href="{{ $value.Permalink }}"> {{ $value.Title }}</a>
+  </div>
+  {{ end }}
+</div>
+</article>
+{{ end }}
+
+
+  {{/*  {{ .Content }}  */}}
