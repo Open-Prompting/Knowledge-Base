@@ -4,6 +4,22 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "Victor Mono";
+  src: url('/fonts/VictorMono-Regular.otf');
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Neue Machina";
+  src: url("/fonts/PPNeueMachina-Ultrabold.otf");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
 .horizontal_meta{
   display: none;
   grid-row: 1/2;
@@ -24,6 +40,14 @@ html {
   font-family: Montserrat;
 }
 
+
+h1, h2 {
+  font-family: "Neue Machina";
+}
+code {
+  font-family: "Victor Mono" ;
+}
+
 body {
   display:flex;
   flex-direction: column;
@@ -41,6 +65,7 @@ header, article {
 }
 
 header h1 {
+  font-family: "Neue Machina";
   font-size: clamp(1rem, 15vw, 10rem);
   /* font-size: 13vw; */
 }
