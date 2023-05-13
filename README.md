@@ -46,3 +46,11 @@ Open Prompting — это открытая, коллективно-наполн�
 Телеграм-канал: [t.me/openprompting](https://t.me/openprompting)
 
 Твиттер: [twitter.com/openprompting](https://twitter.com/openprompting)
+
+
+## Контрибьюторы
+<a href="https://github.com/grdv/openprompting/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=grdv/openprompting" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
