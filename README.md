@@ -52,5 +52,3 @@ Open Prompting — это открытая, коллективно-наполн�
 <a href="https://github.com/grdv/openprompting/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=grdv/openprompting" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
