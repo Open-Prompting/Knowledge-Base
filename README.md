@@ -39,10 +39,10 @@ Open Prompting — это открытая, коллективно-наполн�
 
 ### Ссылки
 
-Сайт: [https://openprompting.org](https://openprompting.org)
+Сайт: [openprompting.org](https://openprompting.org)
 
 Эл.почта: [info@openprompting.org](mailto:info@openprompting.org)
 
-Телеграм-канал: [https://t.me/openprompting](https://t.me/openprompting)
+Телеграм-канал: [t.me/openprompting](https://t.me/openprompting)
 
-Твиттер: [https://twitter.com/openprompting](https://twitter.com/openprompting)
+Твиттер: [twitter.com/openprompting](https://twitter.com/openprompting)
