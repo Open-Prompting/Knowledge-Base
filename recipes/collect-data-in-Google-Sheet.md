@@ -1,6 +1,7 @@
-# Собрать данные гугль-таблицу
 ![cover](https://github.com/Open-Prompting/Open-Prompting/blob/ce565a41c1629b22a152379900b6faafe32b0163/images/cover-data-light.svg#gh-light-mode-only)
 ![cover](https://github.com/Open-Prompting/Open-Prompting/blob/ce565a41c1629b22a152379900b6faafe32b0163/images/cover-data-dark.svg#gh-dark-mode-only)
+
+# Собрать данные гугль-таблицу
 
 Вы&nbsp;оцениваете рынок городов в&nbsp;Европе. Для этого нужны данные о&nbsp;населении крупнейших городов. Чтобы собрать эту информацию в&nbsp;Гугле, придётся потратить минут сорок. Попросите ЧатГПТ найти данные и&nbsp;заполнить гугль-таблицу.
 
