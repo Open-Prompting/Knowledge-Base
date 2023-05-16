@@ -18,10 +18,8 @@
 ```
 
 2. ChatGPT выдаст ответ:
-<img src="https://github.com/Open-Prompting/Open-Prompting/blob/db4decdd18b991f9aa8dcf523cb11a843f3bfa50/images/meta.webp" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Open-Prompting/blob/db4decdd18b991f9aa8dcf523cb11a843f3bfa50/images/meta.webp" width="60%" height="60%">
 
-
-![Скриншот, где ГПТ предлагает несколько метафор]()
 
 ЧатГПТ выдаёт метафоры по&nbsp;убыванию популярности. Если выбрать первый предложенный вариант, то&nbsp;получите самую избитую метафору, какую только знает искусственный интеллект.
 
