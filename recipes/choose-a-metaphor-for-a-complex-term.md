@@ -18,7 +18,7 @@
 ```
 
 2. ChatGPT выдаст ответ:
-<img src="https://github.com/grdv/openprompting/raw/main/images/рецепт%20&mdash;%20придумать%20метафору.webp" width="50%" height="50%">
+<img src="https://github.com/grdv/openprompting/raw/main/images/рецепт%20&mdash;%20придумать%20метафору.webp" width="70%" height="70%">
 
 
 ![Скриншот, где ГПТ предлагает несколько метафор]()
