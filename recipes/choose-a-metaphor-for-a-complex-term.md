@@ -17,7 +17,7 @@
 Используй десять разных метафор.
 ```
 
-2. ChatGPT выдаст ответ:
+2. ЧатГПТ выдаст ответ:
 <img src="https://github.com/Open-Prompting/Open-Prompting/blob/11d51b0ed814049dfeeeec52b4dbfbc75184b45c/images/meta.webp" width="70%" height="70%">
 
 
