@@ -1,4 +1,6 @@
-![cover](https://github.com/Open-Prompting/Open-Prompting/blob/17de985bb3004d6648092eb98cbff462940aaad6/images/svglight_1.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/ce565a41c1629b22a152379900b6faafe32b0163/images/cover-draft-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/ce565a41c1629b22a152379900b6faafe32b0163/images/cover-draft-dark.svg#gh-dark-mode-only)
+
 
 
 # Написать черновик контент-плана
