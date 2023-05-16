@@ -35,13 +35,3 @@ Open Prompting — открытая база знаний о нейросетя�
 <a href="https://github.com/grdv/openprompting/graphs/contributors">
  <img src="https://contrib.rocks/image?repo=grdv/openprompting" />
 </a>
-
-## Ссылки
-
-[openprompting.org](https://openprompting.org)
-
-[info@openprompting.org](mailto:info@openprompting.org)
-
-[Телеграм](https://t.me/openprompting)
-
-[Твиттер](https://twitter.com/openprompting)
