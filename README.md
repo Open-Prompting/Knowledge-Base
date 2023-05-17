@@ -13,7 +13,7 @@ Open Prompting — открытая база знаний о нейросетя�
 
 ### [**Подобрать метафору для сложного термина**](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/metaphor.md)
 
-### [**Написать драфт контент-плана**](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/draft-plan.md)
+### [**Написать черновик контент-плана**](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/draft-plan.md)
 
 ### [Добавить временный текст в дизайнерского макет](#)
 
