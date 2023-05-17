@@ -1,5 +1,5 @@
-![cover](https://github.com/Open-Prompting/Open-Prompting/blob/9db2f424953853c13668c7dd5401d949ac9f4549/images/cover-all-dark.svg#gh-dark-mode-only)
-![cover](https://github.com/Open-Prompting/Open-Prompting/blob/9db2f424953853c13668c7dd5401d949ac9f4549/images/cover-all-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/fd1a6690bd0bde27f4cf58bd481ef70ffb6c1ad2/images/cover-all-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/fd1a6690bd0bde27f4cf58bd481ef70ffb6c1ad2/images/cover-all-light.svg#gh-light-mode-only)
 
 # Open Prompting
 
