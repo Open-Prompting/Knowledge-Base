@@ -1,3 +1,6 @@
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/9db2f424953853c13668c7dd5401d949ac9f4549/images/cover-all-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/9db2f424953853c13668c7dd5401d949ac9f4549/images/cover-all-light.svg#gh-light-mode-only)
+
 # Open Prompting
 
 Open Prompting — открытая база знаний о нейросетях. Мы помогаем освоить искусственный интеллект дизайнерам, редакторам и руководителям, чтобы они не тратили время на рутину. Для этого экспериментируем с искусственным интеллектом, а результаты выкладываем в двух форматах: рецепты и приёмы.
