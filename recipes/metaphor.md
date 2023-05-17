@@ -1,5 +1,5 @@
-![cover](https://github.com/Open-Prompting/Open-Prompting/blob/dec74b6899161b3138827b3474fda59f8e3a502d/images/cover-metaphor-dark.svg#gh-dark-mode-only)
-![cover](https://github.com/Open-Prompting/Open-Prompting/blob/dec74b6899161b3138827b3474fda59f8e3a502d/images/cover-metaphor-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/12addf4dacaf9c8905a5a475510253c2b0cb96ca/images/cover-metaphor-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Open-Prompting/blob/12addf4dacaf9c8905a5a475510253c2b0cb96ca/images/cover-metaphor-light.svg#gh-light-mode-only)
 
 # Подобрать метафору для сложного термина
 Вы&nbsp;пишете текст, в&nbsp;котором встречаются незнакомые читателю термины. Чтобы объяснить их&nbsp;простым языком, приходится долго искать метафоры. ЧатГПТ ускоряет такую работу: он&nbsp;умеет предлагать десятки метафор, из&nbsp;которых остаётся выбрать подходящую.
