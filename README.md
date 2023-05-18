@@ -22,7 +22,7 @@
 
 Этот раздел появится позже. 
 
-## Авторы
+## О проекте
 
 Добавить рецепт в Open Prompting может каждый:
 ### [Гайд: как добавить рецепт](https://github.com/Open-Prompting/Open-Prompting/blob/main/contributing.md)
