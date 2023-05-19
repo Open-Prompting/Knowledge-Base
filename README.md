@@ -1,8 +1,7 @@
 ![cover](https://github.com/Open-Prompting/Open-Prompting/blob/fd1a6690bd0bde27f4cf58bd481ef70ffb6c1ad2/images/cover-all-dark.svg#gh-dark-mode-only)
 ![cover](https://github.com/Open-Prompting/Open-Prompting/blob/fd1a6690bd0bde27f4cf58bd481ef70ffb6c1ad2/images/cover-all-light.svg#gh-light-mode-only)
 
-# Open Prompting
-Открытая база знаний о&nbsp;нейросетях. Мы&nbsp;помогаем освоить&nbsp;ИИ дизайнерам, редакторам и&nbsp;руководителям, чтобы они не&nbsp;тратили время на&nbsp;рутину. Для этого экспериментируем с&nbsp;нейросетями, а&nbsp;результаты выкладываем в&nbsp;двух форматах: рецепты и&nbsp;приёмы.
+Мы&nbsp;помогаем освоить&nbsp;ИИ дизайнерам, редакторам и&nbsp;руководителям, чтобы они не&nbsp;тратили время на&nbsp;рутину. Для этого экспериментируем с&nbsp;нейросетями, а&nbsp;результаты выкладываем в&nbsp;двух форматах: рецепты и&nbsp;приёмы.
 
 ## Рецепты
 
