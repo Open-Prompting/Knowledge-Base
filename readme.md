@@ -26,10 +26,12 @@
 Добавить рецепт в Open Prompting может каждый:
 ### [Гайд: как добавить рецепт](https://github.com/Open-Prompting/Open-Prompting/blob/main/contributing.md)
 
-## О проекте
-Проект сделан [в Школе бюро](https://bureau.ru/school) студентами 16 потока: Анной Терентьевой, Дмитрием Гордеевым, Дмитрием Кухаревым, Катей Базарной.
-
 Все авторы:
+
 <a href="https://github.com/grdv/openprompting/graphs/contributors">
  <img src="https://contrib.rocks/image?repo=open-prompting/open-prompting" />
 </a>
+
+## О проекте
+Проект сделан [в Школе бюро](https://bureau.ru/school) студентами 16 потока: Анной Терентьевой, Дмитрием Гордеевым, Дмитрием Кухаревым, Катей Базарной.
+
