@@ -33,4 +33,6 @@
 
 Все авторы:
 
-<img src="https://contrib.rocks/image?repo=open-prompting/open-prompting">
+<a href="https://github.com/open-prompting/knowledge-base/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=open-prompting/knowledge-base" />
+</a>
