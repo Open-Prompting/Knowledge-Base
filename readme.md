@@ -32,4 +32,4 @@
 </a>
 
 ## О проекте
-Первая версия базы знаний сделана [в Школе Бюро Горбунова](https://bureau.ru/school) в 2023 году. Авторы первой версии: [Анной Терентьевой](https://github.com/t3r3n), [Дмитрием Гордеевым](https://github.com/grdv), [Дмитрием Кухаревым](https://github.com/kkhrv), [Катей Базарной](https://github.com/bacardmi).
+Первая версия базы знаний сделана [в Школе Бюро Горбунова](https://bureau.ru/school) в 2023 году. Авторы первой версии: [Анна Терентьева](https://github.com/t3r3n), [Дмитрий Гордеев](https://github.com/grdv), [Дмитрий Кухарев](https://github.com/kkhrv), [Катя Базарная](https://github.com/bacardmi).
