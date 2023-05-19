@@ -23,8 +23,7 @@
 
 ## Стать автором
 
-Добавить рецепт в Open Prompting может каждый:
-### [Гайд: как добавить рецепт](https://github.com/Open-Prompting/Open-Prompting/blob/main/contributing.md)
+Добавить рецепт в Open Prompting может каждый [следуя руководству автора](https://github.com/Open-Prompting/Open-Prompting/blob/main/contributing.md)
 
 Все авторы:
 
