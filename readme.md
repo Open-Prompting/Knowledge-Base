@@ -32,10 +32,4 @@
 Авторы первой версии: [Анна Терентьева](https://github.com/t3r3n), [Дмитрий Гордеев](https://github.com/grdv), [Дмитрий Кухарев](https://github.com/kkhrv), [Катя Базарная](https://github.com/bacardmi).
 
 Все авторы:
-
-<a href="https://github.com/grdv/openprompting/graphs/contributors">
- <img src="https://contrib.rocks/image?repo=open-prompting/open-prompting">
-</a>
-<a href="https://github.com/grdv/openprompting/graphs/contributors">
- <img src="https://contrib.rocks/image?repo=open-prompting/open-prompting">
-</a>
+<img src="https://contrib.rocks/image?repo=open-prompting/open-prompting">
