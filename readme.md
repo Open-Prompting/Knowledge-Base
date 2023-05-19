@@ -23,13 +23,13 @@
 
 ## Стать автором
 
-Добавить рецепт в Open Prompting может каждый [следуя руководству автора](https://github.com/Open-Prompting/Open-Prompting/blob/main/contributing.md)
+Добавляйте собственные материалы в базу знаний Open Prompting, [следуя руководству автора](https://github.com/Open-Prompting/Open-Prompting/blob/main/contributing.md).
+
+## О проекте
+Первая версия базы знаний сделана [в Школе Бюро Горбунова](https://bureau.ru/school) в 2023 году. Авторы первой версии: [Анна Терентьева](https://github.com/t3r3n), [Дмитрий Гордеев](https://github.com/grdv), [Дмитрий Кухарев](https://github.com/kkhrv), [Катя Базарная](https://github.com/bacardmi).
 
 Все авторы:
 
 <a href="https://github.com/grdv/openprompting/graphs/contributors">
  <img src="https://contrib.rocks/image?repo=open-prompting/open-prompting" />
 </a>
-
-## О проекте
-Первая версия базы знаний сделана [в Школе Бюро Горбунова](https://bureau.ru/school) в 2023 году. Авторы первой версии: [Анна Терентьева](https://github.com/t3r3n), [Дмитрий Гордеев](https://github.com/grdv), [Дмитрий Кухарев](https://github.com/kkhrv), [Катя Базарная](https://github.com/bacardmi).
