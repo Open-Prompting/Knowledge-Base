@@ -7,22 +7,22 @@
 
 Пошаговые инструкции, которые решают типичные рутинные задачи.
 
-### [**Собрать данные и сделать таблицу**](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/spreadsheet.md)
+[Собрать данные и сделать таблицу](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/spreadsheet.md)
 
-### [**Подобрать метафору для сложного термина**](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/metaphor.md)
+[Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/metaphor.md)
 
-### [**Написать черновик контент-плана**](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/draft-plan.md)
+[Написать черновик контент-плана](https://github.com/Open-Prompting/Open-Prompting/blob/main/recipes/draft-plan.md)
 
-### [Добавить временный текст в дизайнерский макет](#)
+[Добавить временный текст в дизайнерский макет](#)
 
 ## Приёмы (скоро)
 Базовые подходы к общению с нейросетями. Этот раздел появится позже. 
 
-### Простой промпт
-### Ролевой промпт
-### Промпт с инструкцией
-### Промпт с образцом
-### Комбинирование разных приеёмов
+Простой промпт
+Ролевой промпт
+Промпт с инструкцией
+Промпт с образцом
+Комбинирование разных приеёмов
 
 ## Стать автором
 
