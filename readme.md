@@ -34,5 +34,5 @@
 Все авторы:
 
 <a href="https://github.com/grdv/openprompting/graphs/contributors">
- <img src="https://contrib.rocks/image?repo=open-prompting/open-prompting" />
+ <img src="https://contrib.rocks/image?repo=open-prompting/open-prompting">
 </a>
