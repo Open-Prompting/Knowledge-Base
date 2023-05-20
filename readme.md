@@ -9,7 +9,7 @@
 
 * [Собрать данные и&nbsp;сделать таблицу](https://github.com/Open-Prompting/Knowledge-Base/blob/fac340669594ed75cd6d9891fbe2a2c98d72b2bb/content/recipes/draft-plan/readme.md)
 * [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/fac340669594ed75cd6d9891fbe2a2c98d72b2bb/content/recipes/metaphor)
-* [Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/blob/fac340669594ed75cd6d9891fbe2a2c98d72b2bb/content/recipes/spreadsheet/readme.md)
+* [Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/blob/fac340669594ed75cd6d9891fbe2a2c98d72b2bb/content/recipes/metaphor/readme.md)
 * [Добавить временный текст в&nbsp;дизайнерский макет](#)
 
 
