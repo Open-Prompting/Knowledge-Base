@@ -1,5 +1,5 @@
 ![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/445089ec11a602783f13d91d454cc7118666ceb9/content/recipes/draft-plan/media/cover-draft-light.svg#gh-light-mode-only)
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/445089ec11a602783f13d91d454cc7118666ceb9/content/recipes/draft-plan/media/cover-draft-dark.svg.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/445089ec11a602783f13d91d454cc7118666ceb9/content/recipes/draft-plan/media/cover-draft-dark.svg#gh-dark-mode-only)
 
 
 
