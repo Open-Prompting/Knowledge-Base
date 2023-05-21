@@ -1,4 +1,4 @@
-![cover](https://github.com/Open-Prompting/Open-Prompting/blob/ce565a41c1629b22a152379900b6faafe32b0163/images/cover-draft-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/445089ec11a602783f13d91d454cc7118666ceb9/content/recipes/draft-plan/media/cover-draft-light.svg#gh-light-mode-only)
 ![cover](https://github.com/Open-Prompting/Open-Prompting/blob/ce565a41c1629b22a152379900b6faafe32b0163/images/cover-draft-dark.svg#gh-dark-mode-only)
 
 
