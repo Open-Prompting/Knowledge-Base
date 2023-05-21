@@ -1,4 +1,4 @@
-![cover](https://github.com/Open-Prompting/Open-Prompting/blob/fd1a6690bd0bde27f4cf58bd481ef70ffb6c1ad2/images/cover-all-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/d5882091f707895b239aa94ff3fa32fbe2f196f6/content/shared%20media/cover-all-dark.svg#gh-dark-mode-only)
 ![cover](https://github.com/Open-Prompting/Open-Prompting/blob/fd1a6690bd0bde27f4cf58bd481ef70ffb6c1ad2/images/cover-all-light.svg#gh-light-mode-only)
 
 Мы&nbsp;помогаем освоить&nbsp;ИИ дизайнерам, редакторам и&nbsp;руководителям, чтобы они не&nbsp;тратили время на&nbsp;рутину. Для этого экспериментируем с&nbsp;нейросетями, а&nbsp;результаты выкладываем в&nbsp;двух форматах: рецепты и&nbsp;приёмы.
