@@ -1,5 +1,5 @@
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/4573d42f7ad68a2e1f92b8d59e1b500a579a74a2/content/recipes/spreadsheet/media/cover-spreadsheet-dark.svg#gh-dark-mode-only)
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/e9800e37562db77234a0aa9037d9563c236645fb/content/recipes/spreadsheet/media/cover-spreadsheet-light.svg.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/1da4d236fd3b673b92087a1bf1935fc223e79b2f/content/recipes/spreadsheet/media/cover-spreadsheet-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/1da4d236fd3b673b92087a1bf1935fc223e79b2f/content/recipes/spreadsheet/media/cover-spreadsheet-light.svg#gh-light-mode-only)
 
 # Собрать данные и вывести их в таблицу
 
