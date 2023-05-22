@@ -26,10 +26,6 @@
 
 Этот метод не&nbsp;подойдёт, когда нужны актуальные данные, ЧатГПТ использует информацию до&nbsp;2021&nbsp;года.
 
-[Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
-
-[Предложить свой рецепт](#)
-
 
 ---
 
