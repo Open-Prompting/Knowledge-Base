@@ -24,7 +24,7 @@
 
 ## Стать автором
 
-Добавляйте собственные материалы в&nbsp;базу знаний Open Prompting, [следуя руководству автора](https://github.com/Open-Prompting/Open-Prompting/blob/main/contributing.md).
+Добавляйте собственные материалы в&nbsp;базу знаний Open Prompting, [следуя руководству автора](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/contributing/readme.md).
 
 ## О&nbsp;проекте
 Первая версия базы знаний сделана [в&nbsp;Школе Бюро Горбунова](https://bureau.ru/school) в&nbsp;2023&nbsp;году. 
