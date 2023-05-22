@@ -19,6 +19,7 @@
 Особенность — премиальные материалы.
 ```
 ЧатГПТ выдаст ответ:
+
 <img src="https://github.com/Open-Prompting/Open-Prompting/blob/4740f305f0c48bed70ebdd20afb3af5c276741ef/images/screenshot-plan.webp" width="70%" height="70%">
 
 
