@@ -33,11 +33,9 @@
 
 ---
 
-| [Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)   | [Предложить свой рецепт](#)|
-| ------------- |:---------------------:|
-
----
-
 Используемые приёмы: `Промт с инструкцией`
 
 Ключевые слова: `OpenAI` `ChatGPT` `Google Sheets` `GPT For Sheets and Docs`
+
+| [Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)   | [Предложить свой рецепт](#)|
+| ------------- |:---------------------:|
