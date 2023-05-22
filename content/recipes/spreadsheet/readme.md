@@ -9,7 +9,7 @@
 
 
 ## Как сделать
-1. [Получить ключ ОупенЭйАй](https://platform.openai.com/account/api-keys).
+1. [Получить ключ ОупенЭйАй](https://platform.openai.com/account/api-keys).[^1]
 2. [Установить расширение для гугль-таблиц&nbsp;&mdash; GPT For Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654).
 3. Открыть в&nbsp;Гуль-таблицах новый файл.
 4. Ввести в настройках расширения ключ АПИ. В главном меню выбрать Расширения → GPT for Sheets and Docs. Нажать пункт Set API key и ввести в него ключ.
