@@ -38,3 +38,5 @@
 ## Ключевые слова
 
 `OpenAI` `ChatGPT` `Google Sheets` `GPT For Sheets and Docs`
+
+| Все рецепты        | Предложить свой рецепт           | 
