@@ -10,7 +10,7 @@
 * [Собрать данные и&nbsp;сделать таблицу](https://github.com/Open-Prompting/Knowledge-Base/content/recipes/spreadsheet/)
 * [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/content/recipes/metaphor)
 * [Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/content/recipes/draft-plan/)
-* [Добавить рыьный текст в&nbsp;дизайнерский макет](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/)
+* [Добавить рыбный текст в&nbsp;дизайнерский макет](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/)
 
 
 ## Приёмы (скоро)
