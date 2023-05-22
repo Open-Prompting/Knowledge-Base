@@ -38,4 +38,4 @@
 
 Используемые приёмы: `Промт с инструкцией`
 
-Ключевые слова: `OpenAI` `ChatGPT` `Google Sheets` `GPT For Sheets and Docs
+Ключевые слова: `OpenAI` `ChatGPT` `Google Sheets` `GPT For Sheets and Docs`
