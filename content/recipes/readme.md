@@ -12,4 +12,4 @@
 
 ### **Дизайнеру**
 
-[Создать рыбу текста для&nbsp;дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
+[Создать «рыбный текст» текста для&nbsp;дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
