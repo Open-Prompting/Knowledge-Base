@@ -13,7 +13,7 @@
 
 ### **Дизайнеру**
 
-[Создать рыбу текста для&nbsp;дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
+[Создать «рыбный текст» для&nbsp;дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
 
 ## Статьи
 [Как добавить рецепт](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/contributing/)
