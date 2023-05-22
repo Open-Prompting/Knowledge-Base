@@ -32,4 +32,4 @@
 
 ## Клювыевые слова
 
-`ChatGPT` `GPT For Sheets and Docs`
+`ChatGPT` `Google Sheets` `GPT For Sheets and Docs`
