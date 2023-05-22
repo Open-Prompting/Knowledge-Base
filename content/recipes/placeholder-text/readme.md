@@ -1,5 +1,5 @@
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/metaphor/media/cover-metaphor-dark.svg#gh-dark-mode-only)
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/metaphor/media/cover-metaphor-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/media/cover-placeholder-text-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/media/cover-placeholder-text-light.svg#gh-light-mode-only)
 
 # Создать «рыбный текст» для дизайнерского макета
 
