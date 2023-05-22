@@ -30,14 +30,9 @@
 
 [Предложить свой рецепт](#)
 
-## Используемые приёмы
+Используемые приёмы: `Промт с инструкцией`
 
-`Промт с инструкцией`
-
-
-## Ключевые слова
-
-`OpenAI` `ChatGPT` `Google Sheets` `GPT For Sheets and Docs
+Ключевые слова: `OpenAI` `ChatGPT` `Google Sheets` `GPT For Sheets and Docs
 
 ---
 
