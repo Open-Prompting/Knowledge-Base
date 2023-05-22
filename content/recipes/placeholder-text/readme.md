@@ -18,7 +18,7 @@
 Не добавляй точки или запятые
 ```
 
-Плагин добавит текст в&nbsp;макет:
+Результат:
 
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/media/figma-light.jpg#gh-light-mode-only" width="70%" height="70%">
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/media/figma-dark.png#gh-dark-mode-only" width="70%" height="70%">
