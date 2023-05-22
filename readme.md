@@ -26,7 +26,7 @@
 
 Мы будем рады, если вы поделитесь своим опытом по работе с нейросетями в нашей базе знаний. Это поможет людям лучше освоить работу с нейросетями, а вам — повысить популярность своего профиля на гитхабе. 
 
-Добавляйте собственные материалы в&nbsp;базу знаний Open Prompting, [следуя руководству автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing).
+Добавляйте собственные материалы в&nbsp;базу знаний, [следуя руководству автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing).
 
 Публикуя материалы, вы соглашаетесь [с лицензионным соглашением](https://github.com/Open-Prompting/Knowledge-Base/blob/main/licence.md).
 
