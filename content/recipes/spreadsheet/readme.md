@@ -9,7 +9,7 @@
 
 
 ## Как сделать
-1. [Получить ключ ОупенЭйАй](https://platform.openai.com/account/api-keys).[^1]
+1. [Получить ключ ОупенЭйАй](https://platform.openai.com/account/api-keys).
 2. [Установить расширение для гугль-таблиц&nbsp;&mdash; GPT For Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654).
 3. Открыть в&nbsp;Гуль-таблицах новый файл.
 4. Ввести в настройках расширения ключ АПИ. В главном меню выбрать Расширения → GPT for Sheets and Docs. Нажать пункт Set API key и ввести в него ключ.
@@ -23,6 +23,19 @@
 телефонный код страны,
 язык)
 ```
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
 
 ## Обратите внимание
 Этот метод не&nbsp;подойдёт, когда нужны актуальные данные, ЧатГПТ использует информацию до&nbsp;2021&nbsp;года.
