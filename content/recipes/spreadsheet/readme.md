@@ -8,7 +8,7 @@
 Если вы работает из России, почитайте [о работе ЧатГПТ в разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
 
 
-## Что сделать
+## Как сделать
 1. [Получить ключ ОупенЭйАй](https://platform.openai.com/account/api-keys).
 2. [Установить расширение для гугль-таблиц&nbsp;&mdash; GPT For Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654).
 3. Открыть в&nbsp;Гуль-таблицах новый файл.
