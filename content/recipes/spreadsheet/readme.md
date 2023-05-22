@@ -32,7 +32,7 @@
 
 Приёмы: `Промт с инструкцией`
 
-Инструменты: `ChatGPT` `OpenAI API` `Google Sheets` `GPT For Sheets and Docs`
+Инструменты: `ChatGPT`, `OpenAI API`, `Google Sheets`, `GPT For Sheets and Docs`
 
 Ключевые слова: `OpenAI`
 
