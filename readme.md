@@ -28,8 +28,6 @@
 
 Добавляйте собственные материалы в&nbsp;базу знаний, [следуя руководству автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing).
 
-Публикуя материалы, вы соглашаетесь [с лицензионным соглашением](https://github.com/Open-Prompting/Knowledge-Base/blob/main/licence.md).
-
 ## О&nbsp;проекте
 Первая версия базы знаний сделана [в&nbsp;Школе Бюро Горбунова](https://bureau.ru/school) в&nbsp;2023&nbsp;году. 
 
