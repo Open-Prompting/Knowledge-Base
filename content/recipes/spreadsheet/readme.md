@@ -30,6 +30,6 @@
 
 [Предложить свой рецепт](#)
 
-## Клювыевые слова
+## Ключевые слова
 
 `OpenAI` `ChatGPT` `Google Sheets` `GPT For Sheets and Docs`
