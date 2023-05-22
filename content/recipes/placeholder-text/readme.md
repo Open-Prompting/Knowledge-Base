@@ -16,4 +16,12 @@
 
 Плагин добавит текст в&nbsp;макет:
 
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/media/figma-light.jpg#gh-light-mode-only" width="70%" height="70%">
+
 ГПТ Мейт посылает в&nbsp;ЧатГПТ новый запрос для каждого выделенного поля. Поэтому важно описывать в&nbsp;промте содержание одного поля, а&nbsp;не&nbsp;всех. Например, если написать &laquo;случайные русские имена&raquo;, ГПТ Мейт добавит в&nbsp;каждое поле несколько имён.
+
+Если в&nbsp;промте нет строчки о&nbsp;знаках препинания, ЧатГПТ иногда будет добавлять лишние знаки к&nbsp;именам.
+
+[Все рецепты](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes)
+
+[Предложить свой рецепт](#)
