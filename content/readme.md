@@ -20,7 +20,7 @@
 
 [Как открыть ЧатГПТ из России](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/ruchatgpt/)
 
-## Приёмы
+## Приёмы (скоро)
 
 Простой промт
 
