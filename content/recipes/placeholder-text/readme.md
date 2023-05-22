@@ -5,7 +5,7 @@
 Если вы&nbsp;работаете из&nbsp;России, почитайте о&nbsp;работе ЧатГПТ в&nbsp;разных регионах.
 
 ## Как сделать
-1. [Получить ключ ОпенАИ](https://platform.openai.com/account/api-keys)
+1. [Получить ключ ОпенАИ](https://platform.openai.com/account/api-keys).
 2. [Установить плагин ГПТ Мейт для Фигмы](https://www.google.com/url?q=https://www.figma.com/community/plugin/1223951614916514138/GPT-Mate&amp;sa=D&amp;source=docs&amp;ust=1684725850872053&amp;usg=AOvVaw3wXg4bpF9PzN3QxsXenKfI).
 3. Выделить текстовые блоки.
 3. Открыть в&nbsp;окне плагина вкладку Settings и&nbsp;ввести ключ.
