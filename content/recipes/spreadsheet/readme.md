@@ -30,6 +30,7 @@
 
 ---
 
+## В этой статье
 Приёмы: `Промт с инструкцией`
 
 Инструменты: `ChatGPT`, `OpenAI API`, `Google Sheets`, `GPT For Sheets and Docs`
