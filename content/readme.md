@@ -20,3 +20,14 @@
 
 [Как открыть ЧатГПТ из России](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/ruchatgpt/)
 
+## Приёмы
+
+Простой промт
+
+Ролевой промт
+
+Промт с инструкцией
+
+Промт с образцом
+
+Комбинирование разных приёмов
