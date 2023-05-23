@@ -12,7 +12,7 @@
 1. [Получить ключ ОупенЭйАй](https://platform.openai.com/account/api-keys).
 2. [Установить расширение для Гугль-таблиц&nbsp;&mdash; GPT For Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654).
 3. Открыть в&nbsp;Гуль-таблицах новый файл.
-4. Ввести в настройках расширения ключ АПИ. В главном меню выбрать Расширения → GPT for Sheets and Docs → Set API key. В появившемся окне ввести ключ.
+4. Ввести в настройках расширения ключ АПИ. В главном меню выбрать Расширения → GPT for Sheets and Docs → Set&nbsp;API&nbsp;key. В появившемся окне ввести ключ.
 5. Написать в&nbsp;любой ячейке функцию и&nbsp;в&nbsp;скобках указать аргумент&nbsp;&mdash; промт:
 ```
 =gpt_table(10 крупнейших городов европы, 
