@@ -1,7 +1,7 @@
 ![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/spreadsheet/media/cover-spreadsheet-dark.svg#gh-dark-mode-only)
 ![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/spreadsheet/media/cover-spreadsheet-light.svg#gh-light-mode-only)
 
-# Собрать данные и вывести их в таблицу
+# Собрать данные и&nbsp;вывести их&nbsp;в&nbsp;таблицу
 
 Допустим, вы&nbsp;оцениваете рынок городов в&nbsp;Европе. Для этого нужны данные о&nbsp;населении крупнейших городов. Чтобы собрать эту информацию в&nbsp;Гугле, придётся потратить минут сорок. Попросите ЧатГПТ найти данные и&nbsp;заполнить Гугль-таблицу.
 
