@@ -20,7 +20,7 @@
 
 Результат:
 
-<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/media/fplaceholder-screenshot-light.png#gh-light-mode-only" width="70%" height="70%">
+<img src="media/placeholder-screenshot-light.png#gh-light-mode-only" width="70%" height="70%">
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/placeholder-text/media/placeholder-screenshot-dark.png#gh-dark-mode-only">
 
 ## Что может пойти не так
