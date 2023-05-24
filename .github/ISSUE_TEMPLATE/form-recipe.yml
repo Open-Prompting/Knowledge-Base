@@ -32,7 +32,7 @@ body:
     attributes:
       label: Результат
       description: Покажите результат на скриншоте. Можно оставить ссылку или перетащить файл скриншота в поле ввода.
-      placeholder: ссылка на скриншот
+      placeholder: Ссылка на скриншот
     validations:
       required: false
   - type: textarea
@@ -41,22 +41,5 @@ body:
       label: Что может пойти не так
       description: На что пользователю обратить особое внимание? Что может пойти не так?.
       value: Если сделать X, то все исчезнет.
-    validations:
-      required: false
-  - type: checkboxes
-    id: triks
-    attributes:
-      label: Приёмы
-      description: Перечислите приёмы, которые помогают написать промт
-      options:
-        - label: Ролевой промт
-        - label: Промт с инструкцией
-        - label: Промт с образцом
-  - type: textarea
-    id: othertrick
-    attributes:
-      label: Другие приёмы
-      description: Если в нашем списке не хватает приёма, который вы использовали, пожалуйста, опишите его
-      placeholder: Рекурсивный промт. Промт который просит нейросеть собрать новый промт. А уже он решит задачу.
     validations:
       required: false
