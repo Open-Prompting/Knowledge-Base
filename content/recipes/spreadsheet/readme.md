@@ -28,9 +28,9 @@
 ## Что может пойти не так
 Этот метод не&nbsp;подойдёт, когда нужны актуальные данные, ЧатГПТ использует информацию до&nbsp;2021&nbsp;года.
 
-## В этой статье
+## В этом рецепте
 Приёмы: `Промт с инструкцией`
 
 Инструменты: `ChatGPT`, `OpenAI API`, `Google Sheets`, `GPT For Sheets and Docs`
 
-[Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты), [Предложить свой рецепт](#)
+[Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты), [Предложить свой рецепт], [Все приёмы](https://github.com/Open-Prompting/Knowledge-Base/tree/main#приёмы-скоро)(#) 
