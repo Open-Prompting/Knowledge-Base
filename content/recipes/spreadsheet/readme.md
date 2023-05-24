@@ -19,6 +19,10 @@
 страна, население, процент от населения страны, 
 координаты, телефонный код страны, язык")
 ```
+Результат:
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/spreadsheet/media/sheet-screenshot-light.png#gh-light-mode-only" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/spreadsheet/media/sheet-screenshot-dark.png#gh-dark-mode-only" width="70%" height="70%">
+
 
 ## Что может пойти не так
 Этот метод не&nbsp;подойдёт, когда нужны актуальные данные, ЧатГПТ использует информацию до&nbsp;2021&nbsp;года.
