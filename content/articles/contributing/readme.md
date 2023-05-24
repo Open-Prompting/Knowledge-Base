@@ -74,4 +74,4 @@ readme.md&nbsp;&mdash; текст рецепта;
 
 ### Не понимаю, как мне опубликовать рецепт?
 
-Это потому что мы что-то упустили в инструкции. Мы исправимся: пожалуйста, напишите вопрос на почту или опишите проблему в разделе Issues:.<br>[info@openprompting.org](mailto:info@openprompting.org).<br>[Issues](https://github.com/Open-Prompting/Open-Prompting/issues)
+Это потому что мы что-то упустили в инструкции. Мы исправимся: пожалуйста, напишите вопрос на почту или опишите проблему в разделе Issues:<br>[info@openprompting.org](mailto:info@openprompting.org).<br>[Issues](https://github.com/Open-Prompting/Open-Prompting/issues)
