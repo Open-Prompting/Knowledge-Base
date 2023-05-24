@@ -40,7 +40,7 @@
 </a>
 
 ## Благодарности
-[Николаю Товеровскому](https://boosty.to/fffworks) — за помощь в создании проекта.
-[Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за помощь в создании логотипа и обложек.
+[Николаю Товеровскому](https://boosty.to/fffworks) — за помощь в создании проекта. 
+[Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за помощь в создании логотипа и обложек. 
 [Злым Марсианам](https://evilmartians.com/) — за [шрифт «Martian Mono»](https://github.com/evilmartians). 
-[Телеграм-каналу «ХХХ»](https://t.me/openprompting) — за помощь в продвижении проекта.
+[Телеграм-каналу «ХХХ»](https://t.me/openprompting) — за помощь в продвижении проекта. 
