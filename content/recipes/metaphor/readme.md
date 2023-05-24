@@ -26,7 +26,12 @@
 ЧатГПТ предлагает метафоры по&nbsp;убыванию популярности. Если выбрать первый предложенный вариант, то&nbsp;получите самую избитую метафору, какую только знает искусственный интеллект.
 
 
-## Ссылки
+## В этой статье
+
+Приёмы: `[Промт с инструкцией](#)`, `[ролевой промт](#)`
+
+Инструменты: `ChatGPT`
+
 [Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
 
-[Предложить свой рецепт](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/contributing/contributing.md)
+[Все приёмы](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
