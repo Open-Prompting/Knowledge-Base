@@ -18,7 +18,9 @@
 ```
 Результат:
 
-<img src="https://github.com/Open-Prompting/Open-Prompting/blob/11d51b0ed814049dfeeeec52b4dbfbc75184b45c/images/meta.webp" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/metaphor/media/metaphor-screenshot-light.png#gh-light-mode-only" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/metaphor/media/metaphor-screenshot-dark.png#gh-dark-mode-only" width="70%" height="70%">
+
 
 ## Что может пойти не так
 ЧатГПТ предлагает метафоры по&nbsp;убыванию популярности. Если выбрать первый предложенный вариант, то&nbsp;получите самую избитую метафору, какую только знает искусственный интеллект.
