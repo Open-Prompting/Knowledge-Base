@@ -24,14 +24,14 @@
 
 ## Стать автором
 
-Мы будем рады, если вы поделитесь своим опытом по работе с нейросетями в нашей базе знаний. Это поможет людям лучше освоить работу с нейросетями, а вам — повысить популярность своего профиля на Гитхабе. 
+Мы будем рады, если вы поделитесь своим опытом по&nbsp;работе с&nbsp;нейросетями в&nbsp;нашей базе знаний. Это поможет людям лучше освоить работу с&nbsp;нейросетями, а&nbsp;вам — повысить популярность своего профиля на&nbsp;Гитхабе. 
 
 Добавляйте собственные материалы в&nbsp;базу знаний, следуя [руководству автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing).
 
 ## О проекте
 Первая версия базы знаний сделана [в&nbsp;Школе Бюро Горбунова](https://bureau.ru/school) в&nbsp;2023&nbsp;году. 
 
-Авторы первой версии: [Анна Терентьева](https://github.com/t3r3n), [Дмитрий Гордеев](https://github.com/grdv), [Дмитрий Кухарев](https://github.com/kkhrv), [Катя Базарная](https://github.com/bacardmi).
+Авторы первой версии: [Анна&nbsp;Терентьева](https://github.com/t3r3n), [Дмитрий&nbsp;Гордеев](https://github.com/grdv), [Дмитрий&nbsp;Кухарев](https://github.com/kkhrv), [Катя&nbsp;Базарная](https://github.com/bacardmi).
 
 Все авторы:
 
@@ -40,12 +40,12 @@
 </a>
 
 ## Благодарности
-[Николаю Товеровскому](https://boosty.to/fffworks) — за помощь в создании проекта. 
+[Николаю Товеровскому](https://boosty.to/fffworks) — за&nbsp;помощь в&nbsp;создании проекта. 
 
-[Максиму Ильяхову](https://maximilyahov.ru/) — за консультации по редактуре, авторскому праву и лицензионным соглашениям. 
+[Максиму Ильяхову](https://maximilyahov.ru/) — за&nbsp;консультации по&nbsp;редактуре, авторскому праву и&nbsp;лицензионным соглашениям. 
 
-[Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за помощь в создании логотипа и обложек. 
+[Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за&nbsp;помощь в&nbsp;создании логотипа и&nbsp;обложек. 
 
-[Злым Марсианам](https://evilmartians.com/) — за [шрифт «Martian Mono»](https://github.com/evilmartians/mono). 
+[Злым Марсианам](https://evilmartians.com/) — за&nbsp;[шрифт «Martian Mono»](https://github.com/evilmartians/mono). 
 
-[Телеграм-каналу «ХХХ»](https://t.me/openprompting) — за помощь в продвижении проекта. 
+[Телеграм-каналу «ХХХ»](https://t.me/openprompting) — за&nbsp;помощь в&nbsp;продвижении проекта. 
