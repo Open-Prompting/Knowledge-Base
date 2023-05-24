@@ -86,4 +86,4 @@ readme.md&nbsp;&mdash; текст рецепта;
 
 [info@openprompting.org](mailto:info@openprompting.org)
 
-(https://github.com/Open-Prompting/Open-Prompting/issues)
+[Issues](https://github.com/Open-Prompting/Open-Prompting/issues)
