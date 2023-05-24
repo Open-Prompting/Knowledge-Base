@@ -5,7 +5,7 @@
 
 Допустим,вы&nbsp;делаете прототип социальной сети. Но&nbsp;вместо дизайна, вы&nbsp;тратите время на&nbsp;рыбный текст: придумываете имена пользователей и&nbsp;вручную добавляете их&nbsp;в&nbsp;макет. Такую работу упростит ГПТ Мейт. Это плагин для Фигмы, который генерирует текст и&nbsp;вставляет его в&nbsp;макет.
 
-Если вы работает из России, почитайте [о&nbsp;работе ЧатГПТ в&nbsp;разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
+Если вы находитесь в России, почитайте [о&nbsp;работе ЧатГПТ в&nbsp;разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
 
 ## Как сделать
 1. [Получить ключ ОпенАИ](https://platform.openai.com/account/api-keys).
