@@ -18,7 +18,7 @@
 ## Статьи
 [Как добавить рецепт](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/contributing/)
 
-[Как открыть ЧатГПТ из России](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/ruchatgpt/)
+[Как открыть ЧатГПТ из&nbsp;России](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/ruchatgpt/)
 
 ## Приёмы (скоро)
 
@@ -26,8 +26,8 @@
 
 Ролевой промт
 
-Промт с инструкцией
+Промт с&nbsp;инструкцией
 
-Промт с образцом
+Промт с&nbsp;образцом
 
 Комбинирование разных приёмов
