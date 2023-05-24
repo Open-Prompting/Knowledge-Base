@@ -28,7 +28,7 @@
 
 Добавляйте собственные материалы в&nbsp;базу знаний, следуя [руководству автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing).
 
-## О&nbsp;проекте
+## О проекте
 Первая версия базы знаний сделана [в&nbsp;Школе Бюро Горбунова](https://bureau.ru/school) в&nbsp;2023&nbsp;году. 
 
 Авторы первой версии: [Анна Терентьева](https://github.com/t3r3n), [Дмитрий Гордеев](https://github.com/grdv), [Дмитрий Кухарев](https://github.com/kkhrv), [Катя Базарная](https://github.com/bacardmi).
@@ -38,3 +38,9 @@
 <a href="https://github.com/open-prompting/knowledge-base/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=open-prompting/knowledge-base" />
 </a>
+
+## Благодарности
+[Николаю Товеровскому](https://boosty.to/fffworks) — за помощь в создании проекта.
+[Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за помощь в создании логотипа и обложек.
+[Злым Марсианам](https://evilmartians.com/) — за [шрифт «Martian Mono»](https://github.com/evilmartians). 
+[Телеграм-каналу «ХХХ»](https://t.me/openprompting) — за помощь в продвижении проекта.
