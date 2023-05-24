@@ -33,6 +33,7 @@
 
 Инструменты: `ChatGPT`, `OpenAI API`, `Google Sheets`, `GPT For Sheets and Docs`
 
+## 
 [Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
 
 [Все приёмы](https://github.com/Open-Prompting/Knowledge-Base/tree/main#приёмы-скоро) 
