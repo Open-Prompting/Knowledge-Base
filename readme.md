@@ -42,6 +42,8 @@
 ## Благодарности
 [Николаю Товеровскому](https://boosty.to/fffworks) — за помощь в создании проекта. 
 
+[Максиму Ильяхову](https://maximilyahov.ru/) — за консультации по авторскому праву и лицензионным соглашениям. 
+
 [Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за помощь в создании логотипа и обложек. 
 
 [Злым Марсианам](https://evilmartians.com/) — за [шрифт «Martian Mono»](https://github.com/evilmartians/mono). 
