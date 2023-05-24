@@ -32,6 +32,9 @@
 
 Инструменты: `ChatGPT`
 
+## 
+
 [Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
 
 [Все приёмы](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
+
