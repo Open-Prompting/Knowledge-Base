@@ -44,7 +44,6 @@
 
 [Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за помощь в создании логотипа и обложек. 
 
-[Злым Марсианам](https://evilmartians.com/) — за [шрифт «Martian Mono»](https://github.com/evilmartians). 
+[Злым Марсианам](https://evilmartians.com/) — за [шрифт «Martian Mono»](https://github.com/evilmartians/mono). 
 
 [Телеграм-каналу «ХХХ»](https://t.me/openprompting) — за помощь в продвижении проекта. 
-
