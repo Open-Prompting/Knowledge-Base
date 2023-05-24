@@ -27,9 +27,9 @@
 
 ## В этой статье
 
-Приёмы: Промт с инструкцией
+Приёмы: `[Промт с инструкцией](#)`
 
-Инструменты: ChatGPT
+Инструменты: `ChatGPT`
 
 [Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
 
