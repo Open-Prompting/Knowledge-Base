@@ -30,8 +30,14 @@
 Если в&nbsp;промте нет строчки о&nbsp;знаках препинания, ЧатГПТ иногда будет добавлять лишние знаки к&nbsp;именам.
 
 ## В этом рецепте
-Приёмы:`Промт с инструкцией`
+Приёмы:[`Промт с инструкцией`](https://github.com/Open-Prompting/Knowledge-Base#%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D1%8B-%D1%81%D0%BA%D0%BE%D1%80%D0%BE)
 
 Инструменты: `ChatGPT`, `OpenAI API`, `Figma`, `GPT Mate`
 
-[Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты), [Предложить свой рецепт], [Все приёмы](https://github.com/Open-Prompting/Knowledge-Base/tree/main#приёмы-скоро)(#)
+## 
+
+[Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
+
+[Все рецепты](https://github.com/Open-Prompting/Open-Prompting/blob/main/README.md#user-content-рецепты)
+
+[Предложить свой рецепт](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing)
