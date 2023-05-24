@@ -1,0 +1,70 @@
+name: Добавить рецепт
+description: Заполните форму, а мы опубликуем ваш рецепт.
+title: "[Новый рецепт: "
+labels: ["Новый рецепт"]
+assignees:
+  - octocat
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Имеил
+      description: Как с вами связаться, если появятся вопросы о рецепте?
+      placeholder: mail@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: situation
+    attributes:
+      label: Ситуация, когда пригодится рецепт
+      description: Это может быть описание типичной рутины в работе руководителя, дизайнера или редактора
+      value: Допустим, вы редактор и хотите...
+    validations:
+      required: false
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как сделать
+      description: Список шагов, которые помогут пользователю решить задачу. В промте каждое предложение начинайте с новой строки.
+      value: | 
+        1. Открыть [ЧатГПТ](https://chat.openai.com) .
+        2. Введите промт:
+        ```
+        Собери данные о городах Европы.
+        Покажи их в виде таблицы.
+        ```
+    validations:
+      required: false
+  - type: textarea
+    id: result
+    attributes:
+      label: Результат
+      description: Покажите результат на скриншоте. Можно оставить ссылку на файл или перетащить файл скриншота в поле ввода.
+      placeholder: Ссылка на скриншот
+    validations:
+      required: false
+  - type: textarea
+    id: danger
+    attributes:
+      label: Что может пойти не так
+      description: На что пользователю обратить особое внимание? Что может пойти не так?
+      value: Если сделать X, то все исчезнет.
+    validations:
+      required: false
+  - type: checkboxes
+    id: triks
+    attributes:
+      label: Приёмы
+      description: Перечислите приёмы, которые помогают написать промт
+      options:
+        - label: Ролевой промт
+        - label: Промт с инструкцией
+        - label: Промт с образцом
+  - type: textarea
+    id: othertrick
+    attributes:
+      label: Другие приёмы
+      description: Если в нашем списке не хватает приёма, который вы использовали, пожалуйста, опишите его
+      placeholder: Рекрсивный промт. Промт который просит нейросеть собрать  новый промт. А уже он решит задачу.
+    validations:
+      required: false
