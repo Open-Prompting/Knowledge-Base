@@ -33,8 +33,8 @@
 
 ## 
 
-[Все рецепты](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes)
+[Все рецепты](https://github.com/Open-Prompting/Knowledge-Base/tree/main#%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B)
 
-[Все приёмы](https://github.com/Open-Prompting/Knowledge-Base#%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D1%8B-%D1%81%D0%BA%D0%BE%D1%80%D0%BE)
+[Все приёмы](https://github.com/Open-Prompting/Knowledge-Base/tree/main#%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D1%8B-%D1%81%D0%BA%D0%BE%D1%80%D0%BE) 
 
-[Предложить свой рецепт](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing)
+[Как добавить рецепт рецепт](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing)
