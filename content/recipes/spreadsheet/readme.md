@@ -8,7 +8,7 @@
 Если вы находитесь в России, почитайте [о&nbsp;работе ЧатГПТ в&nbsp;разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
 
 ## Как сделать
-1. [Получить ключ ОупенЭйАй](https://platform.openai.com/account/api-keys).
+1. [Получить ключ ОпенАИ](https://platform.openai.com/account/api-keys).
 2. [Установить расширение для Гугль-таблиц&nbsp;&mdash; GPT For Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654).
 3. Открыть в&nbsp;Гуль-таблицах новый файл.
 4. Ввести в настройках расширения ключ АПИ. В&nbsp;главном меню выбрать Расширения → GPT for Sheets and Docs → Set&nbsp;API&nbsp;key. В&nbsp;появившемся окне ввести ключ.
