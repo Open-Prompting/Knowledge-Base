@@ -26,7 +26,7 @@
 
 Мы будем рады, если вы поделитесь своим опытом по работе с нейросетями в нашей базе знаний. Это поможет людям лучше освоить работу с нейросетями, а вам — повысить популярность своего профиля на Гитхабе. 
 
-Добавляйте собственные материалы в&nbsp;базу знаний, [следуя руководству автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing).
+Добавляйте собственные материалы в&nbsp;базу знаний, следуя [руководству автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing).
 
 ## О&nbsp;проекте
 Первая версия базы знаний сделана [в&nbsp;Школе Бюро Горбунова](https://bureau.ru/school) в&nbsp;2023&nbsp;году. 
