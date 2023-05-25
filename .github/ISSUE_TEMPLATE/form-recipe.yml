@@ -2,8 +2,6 @@ name: Добавить рецепт
 description: Заполните форму, а мы опубликуем ваш рецепт.
 title: "Новый рецепт:"
 labels: ["Новый рецепт"]
-assignees:
-  - octocat
 body:
   - type: textarea
     id: situation
