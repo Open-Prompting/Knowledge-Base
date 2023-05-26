@@ -47,3 +47,5 @@
 [Михаилу Нозику](https://bureau.ru/burosfera/mihail-nozik) — за помощь в создании логотипа и обложек. 
 
 [Злым Марсианам](https://github.com/evilmartians/mono) — за шрифт «Martian Mono». 
+
+[Телеграм каналу «Секс, Смерть и IT»](https://t.me/@SexDeathIT) — за помощь в продвижении.
