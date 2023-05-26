@@ -1,18 +1,18 @@
 ![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/spreadsheet/media/cover-spreadsheet-dark.svg#gh-dark-mode-only)
 ![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/spreadsheet/media/cover-spreadsheet-light.svg#gh-light-mode-only)
 
-# Собрать данные и&nbsp;вывести их&nbsp;в&nbsp;таблицу
+# Собрать данные и вывести их в таблицу
 
-Допустим, вы&nbsp;оцениваете рынок городов в&nbsp;Европе. Для этого нужны данные о&nbsp;населении крупнейших городов. Чтобы собрать эту информацию в&nbsp;Гугле, придётся потратить минут сорок. Попросите ЧатГПТ найти данные и&nbsp;заполнить Гугль-таблицу.
+Допустим, вы оцениваете рынок городов в Европе. Для этого нужны данные о населении крупнейших городов. Чтобы собрать эту информацию в Гугле, придётся потратить минут сорок. Попросите ЧатГПТ найти данные и заполнить Гугль-таблицу.
 
-Если вы находитесь в России, почитайте [о&nbsp;работе ЧатГПТ в&nbsp;разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
+Если вы находитесь в России, почитайте [о работе ЧатГПТ в разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
 
 ## Как сделать
 1. [Получить ключ ОпенАИ](https://platform.openai.com/account/api-keys).
-2. [Установить расширение для Гугль-таблиц&nbsp;&mdash; GPT For Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654).
-3. Открыть в&nbsp;Гуль-таблицах новый файл.
-4. Ввести в настройках расширения ключ АПИ. В&nbsp;главном меню выбрать Расширения → GPT for Sheets and Docs → Set&nbsp;API&nbsp;key. В&nbsp;появившемся окне ввести ключ.
-5. Написать в&nbsp;любой ячейке функцию и&nbsp;в&nbsp;скобках указать аргумент&nbsp;&mdash; промт:
+2. [Установить расширение для Гугль-таблиц &mdash; GPT For Sheets and Docs](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654).
+3. Открыть в Гуль-таблицах новый файл.
+4. Ввести в настройках расширения ключ АПИ. В главном меню выбрать Расширения → GPT for Sheets and Docs → Set API key. В появившемся окне ввести ключ.
+5. Написать в любой ячейке функцию и в скобках указать аргумент &mdash; промт:
 ```
 =gpt_table("10 крупнейших городов Европы, 
 страна, население, процент от населения страны, 
@@ -25,7 +25,7 @@
 
 
 ## Что может пойти не так
-Этот метод не&nbsp;подойдёт, когда нужны актуальные данные, ЧатГПТ использует информацию до&nbsp;2021&nbsp;года.
+Этот метод не подойдёт, когда нужны актуальные данные, ЧатГПТ использует информацию до 2021 года.
 
 ## В этом рецепте
 Приёмы: [`промт с инструкцией`](https://github.com/Open-Prompting/Knowledge-Base#%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D1%8B-%D1%81%D0%BA%D0%BE%D1%80%D0%BE)
