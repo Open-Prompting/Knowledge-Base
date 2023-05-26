@@ -3,22 +3,22 @@
 
 ### **Руководителю**
 
-[Собрать данные и&nbsp;вывести их&nbsp;в&nbsp;таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
+[Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
 
 ### **Редактору**
 
-[Подобрать метафору для&nbsp;сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
+[Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
 
 [Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan/)
 
 ### **Дизайнеру**
 
-[Создать «рыбный текст» для&nbsp;дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
+[Создать «рыбный текст» для дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
 
 ## Статьи
 [Как добавить рецепт](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/contributing/)
 
-[Как открыть ЧатГПТ из&nbsp;России](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/ruchatgpt/)
+[Как открыть ЧатГПТ из России](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/ruchatgpt/)
 
 ## Приёмы (скоро)
 
@@ -26,8 +26,8 @@
 
 Ролевой промт
 
-Промт с&nbsp;инструкцией
+Промт с инструкцией
 
-Промт с&nbsp;образцом
+Промт с образцом
 
 Комбинирование разных приёмов
