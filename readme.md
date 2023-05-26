@@ -48,4 +48,4 @@
 
 [Злым Марсианам](https://github.com/evilmartians/mono) — за шрифт «Martian Mono». 
 
-[Телеграм каналу «Секс, Смерть и IT»](https://t.me/@SexDeathIT) — за помощь в продвижении.
+[Телеграм каналу «Секс, Смерть и IT»](https://t.me/SexDeathIT) — за помощь в продвижении.
