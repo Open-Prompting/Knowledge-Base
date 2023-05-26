@@ -9,7 +9,7 @@
 
 ## Как сделать
 1. [Получить АПИ-ключ OpenAI](https://platform.openai.com/account/api-keys).
-2. [Установить плагин GPT Mate для Фигмы](https://www.google.com/url?q=https://www.figma.com/community/plugin/1223951614916514138/GPT-Mate&amp;sa=D&amp;source=docs&amp;ust=1684725850872053&amp;usg=AOvVaw3wXg4bpF9PzN3QxsXenKfI).
+2. [Установить плагин GPT Mate для Фигмы](https://www.figma.com/community/plugin/1223951614916514138/GPT-Mate&amp;sa=D&amp;source=docs&amp;ust=1684725850872053&amp;usg=AOvVaw3wXg4bpF9PzN3QxsXenKfI).
 3. Выделить текстовые блоки.
 3. Открыть в окне плагина вкладку Settings и ввести ключ.
 4. Перейти во вкладку Command и ввести промт: 
