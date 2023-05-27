@@ -48,4 +48,4 @@
 
 **Минусы:** Может быть сложно, если раньше не приходилось работать с Гитхабом: писать на маркдауне, создавать пул-реквесты. Научиться этому поможет инструкция:
 
-[Простой способ сделать пул-реквест](https://github.com/kkhrv/Knowledge-Base/tree/main/content/articles/pull-request)
+[Простой способ сделать пул-реквест](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/pull-request)
