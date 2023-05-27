@@ -5,7 +5,7 @@
 
 Допустим, вы оцениваете рынок городов в Европе. Для этого нужны данные о населении крупнейших городов. Чтобы собрать эту информацию в Гугле, придётся потратить минут сорок. Попросите ЧатГПТ найти данные и заполнить Гугль-таблицу.
 
-Если вы находитесь в России, почитайте [о работе ЧатГПТ в разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
+Если вы в России, почитайте [о работе ЧатГПТ в разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
 
 ## Как сделать
 1. [Получить ключ ОпенАИ](https://platform.openai.com/account/api-keys).
