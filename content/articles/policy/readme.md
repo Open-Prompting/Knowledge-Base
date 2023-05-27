@@ -63,6 +63,7 @@
 * API → АПИ,
 * ChatGPT → ЧатГПТ,
 * git → гит,
+* fork → форк
 * Github CLI → Гитхаб КЛИ
 * Github → Гитхаб
 * Google Spreadsheets → Гугль-таблицы.
@@ -70,4 +71,5 @@
 * IP address → айпи-адрес,
 * Midjourney → Миджорни,
 * OpenAI → ОпенАИ,
+* pul-request → пул-реквест,
 * VPN → ВПН.
