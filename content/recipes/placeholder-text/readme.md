@@ -5,7 +5,7 @@
 
 Допустим, вы делаете прототип социальной сети. Но вместо дизайна, вы тратите время на рыбный текст: придумываете имена пользователей и вручную добавляете их в макет. Такую работу упростит GPT Mate. Это плагин для Фигмы, который генерирует текст и вставляет его в макет.
 
-Если вы находитесь в России, почитайте [о работе ЧатГПТ в разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
+Если вы в России, почитайте [о работе ЧатГПТ в разных регионах](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/articles/ruchatgpt/).
 
 ## Как сделать
 1. [Получить АПИ-ключ OpenAI](https://platform.openai.com/account/api-keys).
