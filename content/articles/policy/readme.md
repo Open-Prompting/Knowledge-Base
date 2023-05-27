@@ -69,5 +69,5 @@
 * IP address → айпи-адрес,
 * Midjourney → Миджорни,
 * OpenAI → ОпенАИ,
-* pul-request → пул-реквест,
+* pull-request → пул-реквест,
 * VPN → ВПН.
