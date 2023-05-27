@@ -46,6 +46,7 @@
 <img src="https://contrib.rocks/image?repo=open-prompting/knowledge-base" />
 </a>
 
-**Минусы:** Может быть сложно, если раньше не приходилось работать с Гитхабом: писать на маркдауне, создавать пул-реквесты. Научиться этому поможет инструкция:
-
+**Минусы:** Может быть сложно, если раньше не приходилось работать с Гитхабом: писать на маркдауне, создавать пул-реквесты. Если не ледовать редполитике, оригинальный текст могут сильно изменить редакторы.
 [Простой способ сделать пул-реквест](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/pull-request)
+[Редакционная политика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy/)
+
