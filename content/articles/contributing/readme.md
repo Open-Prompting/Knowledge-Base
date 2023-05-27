@@ -20,7 +20,7 @@
 
 **Минусы:** вы не сможете поучаствовать в редактуре. Ваше имя не попадёт в публичный список контрибьютеров — соавторов нашего проекта.
 
-[Предложить идею на info@openprompting.org](mailto: info@openprompting.org)
+[Предложить идею на info@openprompting.org](mailto:info@openprompting.org)
 
 ## 2. Предложить идею и обсудить её с сообществом
 
@@ -32,7 +32,7 @@
 
 **Минусы:** Вы не станете контрибьютером, ваш аккаунт не отобразится в списке соавторов проекта.
 
-[Предложить рецепт](#)<br>
+[Предложить рецепт](https://github.com/Open-Prompting/Knowledge-Base/issues/new?assignees=&labels=%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82&projects=&template=form-recipe.yml&title=%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9+%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%3A)<br>
 Предложить приём (скоро)<br>
 [Раздел Issues c идеями сообщества](https://github.com/Open-Prompting/Knowledge-Base/issues)
 
