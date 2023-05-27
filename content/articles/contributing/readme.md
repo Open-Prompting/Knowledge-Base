@@ -48,7 +48,7 @@
 
 **Минусы:** Может быть сложно, если раньше не приходилось работать с Гитхабом: писать на маркдауне, создавать пул-реквесты. Если не следовать редполитике, редакторы могут сильно изменить ваш текст.
 
-[Простой способ сделать пул-реквест](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/pull-request)
+[Как сделать пул-реквест](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/pull-request)
 
 [Редакционная политика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy/)
 
