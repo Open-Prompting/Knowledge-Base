@@ -63,7 +63,7 @@
 * API → АПИ,
 * ChatGPT → ЧатГПТ,
 * git → гит,
-* fork → форк
+* fork → форк,
 * Github CLI → Гитхаб КЛИ
 * Github → Гитхаб
 * Google Spreadsheets → Гугль-таблицы.
