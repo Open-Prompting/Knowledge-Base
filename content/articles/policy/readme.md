@@ -18,6 +18,7 @@
 * ChatGPT → ЧатГПТ,
 * OpenAI → ОпенАИ,
 * Google Spreadsheets → Гугль-таблицы.
+
 Но:
 * GPT For Sheets and Docs,
 * GPT Mate.
