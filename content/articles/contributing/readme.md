@@ -10,7 +10,7 @@
 
 [Редакционная политика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy/)
 
-Вот три способа поделиться своей идеей.
+Вот три способа поделиться идеей.
 
 ## 1. Предложить идею
 
