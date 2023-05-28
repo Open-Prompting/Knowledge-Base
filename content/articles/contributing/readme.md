@@ -53,7 +53,7 @@
 
 <a href="https://github.com/open-prompting/knowledge-base/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=open-prompting/knowledge-base" />
-</a>
+</a> <br><br>
 
 **Минусы:** 
 * Сложно, если раньше не писали на маркдауне и не создавали пул-реквесты. 
