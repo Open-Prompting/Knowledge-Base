@@ -10,7 +10,7 @@
 
 [Редакционная политика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy/)
 
-Вот три способа пополнить базу знаний.
+Вот три способа стать участником Open Prompting.
 
 ## 1. Предложить идею
 
