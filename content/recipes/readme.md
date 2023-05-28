@@ -4,7 +4,7 @@
 
 [Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
 
-[Настроить сервер без админа](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-web-server)
+[Настроить сервер без админа](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-web-server)
 
 ### **Редактору**
 
