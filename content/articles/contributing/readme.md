@@ -10,7 +10,7 @@
 
 [Редакционная политика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy/)
 
-Вот три способа стать участником Open Prompting.
+Вот три способа поделиться своей идеей.
 
 ## 1. Прислать идею на почту
 
