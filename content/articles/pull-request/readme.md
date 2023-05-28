@@ -48,7 +48,7 @@ https://github.com/kkhrv/Knowledge-Base/assets/25165356/3b5bcbdc-1532-43eb-85c9-
 
 4. Отредактируйте рецепт и нажмите кнопку Commit changes. В поле Commit message можно написать пару слов о рецепте — но это не обязательно.
 
-### Шаг 3. Отправить пул-реквест
+### Шаг 3. Отправьте пул-реквест
 
 https://github.com/kkhrv/Knowledge-Base/assets/25165356/4e8586bc-0498-4f61-9732-60cc94ad3474
 
