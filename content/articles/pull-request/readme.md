@@ -14,7 +14,7 @@
 
 https://github.com/kkhrv/Knowledge-Base/assets/25165356/32e20e72-6e07-4020-bae8-6f099ae92ed6
 
-1. Сделайте форк — копию базы знаний Open Promting. Для этого нажмите кнопку Fork в верхнем правом углу или перейдите по ссылке:<br>[скопировать базу знаний](https://github.com/Open-Prompting/Knowledge-Base/fork)
+1. Сделайте форк — копию базы знаний Open Promting. Для этого нажмите кнопку Fork в верхнем правом углу или перейдите по ссылке:<br>[Cкопировать базу знаний](https://github.com/Open-Prompting/Knowledge-Base/fork)
 
 2. В открывшемся окне нажмите Create fork.
 
