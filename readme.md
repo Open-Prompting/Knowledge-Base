@@ -27,6 +27,7 @@
 Мы будем рады, если вы поделитесь своим опытом по работе с нейросетями в нашей базе знаний, следуя руководству автора и редполитике. Это поможет людям лучше освоить работу с нейросетями, а вам — повысить популярность своего профиля на Гитхабе. 
 
 [Руководство автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing)
+
 [Редполитика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy)
 
 ## О проекте
