@@ -22,7 +22,6 @@ body:
     attributes:
       label: Результат
       description: Покажите результат на скриншоте. Можно оставить ссылку или перетащить файл скриншота в поле ввода.
-      placeholder: Ссылка на скриншот
     validations:
       required: false
   - type: textarea
