@@ -7,7 +7,7 @@ body:
     id: situation
     attributes:
       label: Ситуация, когда пригодится рецепт
-      description: Это может быть описание типичной рутины в работе руководителя, дизайнера или редактора.
+      description: Описание типичной задачи в работе руководителя, дизайнера или редактора.
     validations:
       required: false
   - type: textarea
