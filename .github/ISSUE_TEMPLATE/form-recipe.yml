@@ -28,6 +28,6 @@ body:
     id: danger
     attributes:
       label: Что может пойти не так
-      description: На что пользователю обратить особое внимание? Что может пойти не так?.
+      description: На что пользователю обратить особое внимание? Что может пойти не так?
     validations:
       required: false
