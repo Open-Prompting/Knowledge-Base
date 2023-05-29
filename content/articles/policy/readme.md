@@ -50,10 +50,6 @@
 
 ## Словарь заимствованных слов Open Prompting
 
-Оставляем на латинице:
-* GPT For Sheets and Docs,
-* GPT Mate.
-
 Переводим в кириллицу:
 * API → АПИ,
 * ChatGPT → ЧатГПТ,
@@ -68,3 +64,7 @@
 * OpenAI → ОпенАИ,
 * pull-request → пул-реквест,
 * VPN → ВПН.
+
+Оставляем на латинице:
+* GPT For Sheets and Docs,
+* GPT Mate.
