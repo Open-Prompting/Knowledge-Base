@@ -12,7 +12,6 @@
 <a href="https://github.com/open-prompting/knowledge-base/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=open-prompting/knowledge-base" />
 </a> <br>
-
 <br>[Предложить идею на info@openprompting.org](mailto:info@openprompting.org)
 
 ## 2. Предложить идею и обсудить её с сообществом
