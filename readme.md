@@ -1,5 +1,5 @@
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/shared-media/cover-all-dark.svg#gh-dark-mode-only)
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/shared-media/cover-all-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/shared-media/cover-all3d-dark.png#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/shared-media/cover-all3d-light.png#gh-light-mode-only)
 
 Мы помогаем освоить нейросети дизайнерам, редакторам и руководителям, чтобы они не тратили время на рутину. Для этого экспериментируем с нейросетями, а результаты выкладываем в двух форматах: рецепты и приёмы.
 
