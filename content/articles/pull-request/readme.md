@@ -10,7 +10,7 @@
 
 Теперь подробнее о каждом шаге.
 
-### Шаг 1. Создайть копию репозитория Open Prompting
+### Шаг 1. Создйть копию репозитория Open Prompting
 
 https://github.com/kkhrv/Knowledge-Base/assets/25165356/32e20e72-6e07-4020-bae8-6f099ae92ed6
 
