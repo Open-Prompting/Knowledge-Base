@@ -22,20 +22,7 @@ How to fix the problem?
 Результат:
 https://d.pr/i/aT3rI0
 
-##Что может пойти не так
+## Что может пойти не так
 Не стесняйтесь грузить ЧатГПТ: давайте ему большие куски непонятных логов, задавайте глупые вопросы, просите объяснить, как работают технологии. Общайтесь с ним как с живым админом, который готов бесконечно вам отвечать и которого невозможно разозлить.
 
 Параллельно старайтесь разобраться в проблеме самостоятельно. Если найдёте подсказку где-то в интернете, дайте её ЧатуГПТ.
-
-## В этом рецепте
-Приёмы: [`промт с инструкцией`](https://github.com/Open-Prompting/Knowledge-Base#%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D1%8B-%D1%81%D0%BA%D0%BE%D1%80%D0%BE)
-
-Инструменты: `ChatGPT`
-
-## 
-[Все рецепты](https://github.com/Open-Prompting/Knowledge-Base/tree/main#%D1%80%D0%B5%D1%86%D0%B5%D0%BF%D1%82%D1%8B)
-
-[Все приёмы](https://github.com/Open-Prompting/Knowledge-Base/tree/main#%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D1%8B-%D1%81%D0%BA%D0%BE%D1%80%D0%BE) 
-
-[Как добавить рецепт](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing)
-
