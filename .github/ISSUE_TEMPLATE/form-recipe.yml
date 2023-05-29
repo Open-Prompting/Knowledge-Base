@@ -14,7 +14,7 @@ body:
     id: steps
     attributes:
       label: Как сделать
-      description: Перечислите шаги, которые решат задачу. Напишите промт, запрос к нейросети.
+      description: Перечислите шаги, которые решат задачу. Напишите промт — запрос к нейросети.
     validations:
       required: false
   - type: textarea
