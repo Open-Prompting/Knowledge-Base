@@ -1,33 +1,33 @@
 name: Добавить рецепт
-description: Раскажите о своей идее рецепта.
-title: "Новый рецепт:"
+description: Расcкажите о своей идее рецепта.
+title: "Название рецепта"
 labels: ["Новый рецепт"]
 body:
   - type: textarea
     id: situation
     attributes:
       label: Ситуация
-      description: Опишите типичную задачу руководителя, дизайнера или редактора.
+      description: Опишите типичную задачу руководителя, дизайнера или редактора.
     validations:
       required: false
   - type: textarea
     id: steps
     attributes:
       label: Как сделать
-      description: Перечислите шаги которые решат задачу. В промт — запрос к нейросети.
+      description: Перечислите шаги, которые решат задачу. Напишите промт, запрос к нейросети.
     validations:
       required: false
   - type: textarea
     id: result
     attributes:
       label: Результат
-      description: Оставьте сссылку на скриншот, который демонстрирует результат. Или перетащите скриншот в поле ввода.
+      description: Оставьте ссылку на скриншот, который демонстрирует результат. Или перетащите скриншот в поле ввода.
     validations:
       required: false
   - type: textarea
     id: danger
     attributes:
       label: Что может пойти не так
-      description: Предупредите пользователя о возможных проблемах.
+      description: Предупредите пользователя о возможных проблемах.
     validations:
       required: false
