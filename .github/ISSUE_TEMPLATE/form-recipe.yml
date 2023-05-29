@@ -7,14 +7,14 @@ body:
     id: situation
     attributes:
       label: Ситуация, когда пригодится рецепт
-      description: Описание типичной задачи руководителя, дизайнера или редактора.
+      description: Опишите типичной задачи руководителя, дизайнера или редактора.
     validations:
       required: false
   - type: textarea
     id: steps
     attributes:
       label: Как сделать
-      description: Список шагов, которые помогут пользователю решить задачу. В разделе обязательно должен быть промт — запрос к нейросети.
+      description: Перечислите шаги которые решат задачу пользователя. Среди них должен быть промт — запрос к нейросети.
     validations:
       required: false
   - type: textarea
