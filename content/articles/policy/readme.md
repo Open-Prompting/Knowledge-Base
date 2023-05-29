@@ -55,9 +55,9 @@
 * ChatGPT → ЧатГПТ,
 * git → гит,
 * fork → форк,
-* Github CLI → Гитхаб КЛИ
-* Github → Гитхаб
-* Google Spreadsheets → Гугль-таблицы.
+* Github CLI → Гитхаб КЛИ,
+* Github → Гитхаб,
+* Google Spreadsheets → Гугль-таблицы,
 * Google → Гугль,
 * IP address → айпи-адрес,
 * Midjourney → Миджорни,
