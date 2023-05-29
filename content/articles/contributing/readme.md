@@ -12,7 +12,7 @@
 <a href="https://github.com/open-prompting/knowledge-base/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=open-prompting/knowledge-base" />
 </a> <br>
-<br>[Предложить идею на info@openprompting.org](mailto:info@openprompting.org)
+[Предложить идею на info@openprompting.org](mailto:info@openprompting.org)
 
 ## 2. Предложить идею и обсудить её с сообществом
 Если у вас есть аккаунт на Гитхабе, заполните специальную форму. Там попросим ответить на несколько вопросов о вашей идее. Ваши ответы появится в разделе Issues, где их увидят и прокомментируют другие участники. Если идея окажется полезной, мы опубликуем её в виде отдельной статьи. Но контрибьютером вы не станете.
