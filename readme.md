@@ -11,6 +11,7 @@
 * [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
 * [Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan/)
 * [Создать «рыбный текст» для дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
+* [Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server)
 
 
 ## Приёмы (скоро)
