@@ -1,3 +1,7 @@
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/recipes/debug-server/media/cover-spreadsheet-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/recipes/debug-server/media/cover-spreadsheet-light.svg#gh-light-mode-only)
+
+
 # Починить веб-сервер без администратора
 Допустим, ваш веб-сервер упал с ошибкой 500. Вы понимаете, что проблему надо устранить, но не знаете как, а спросить не у кого. Чтобы починить веб-сервер, воспользуйтесь ЧатГПТ и общайтесь с ним как с живым администратором: задавайте вопросы, просите объяснить, как работают технологии.
 
