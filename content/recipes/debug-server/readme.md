@@ -11,12 +11,16 @@
 1. Подключиться к серверу через терминал.
 2. Ввести промт:
 ```
-We have error 500 on the site.
-How to fix the problem?
+Мой сайт выдаёт ошибку 500. 
+Как это исправить? 
+Дай подробную инструкцию
 ```
-3. Следуйте советам нейросети. Например, если ЧатГПТ спросит о логах сервера, скопируйте их в чат.
+3. Следуйте советам нейросети. Например, если ЧатГПТ спросит о логах сервера, скопируйте их в чат. Если сомневаетесь, как выполнить инструкцию нейросети, спросите попросите её объяснить подробнее.
 
 Результат:
+
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/recipes/debug-server/media/screenshot-debug-light.png#gh-light-mode-only" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/recipes/debug-server/media/screenshot-debug-light.png#gh-dark-mode-only" width="70%" height="70%">
 
 ## Что может пойти не так
 Если ЧатГПТ не справляется с проблемой, попробуйте ему помочь. Например, если найдете подсказку в интернете, дайте её ЧатуГПТ.
