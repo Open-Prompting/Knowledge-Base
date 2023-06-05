@@ -4,6 +4,7 @@
 ### **Руководителю**
 
 [Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
+[Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server)
 
 ### **Редактору**
 
