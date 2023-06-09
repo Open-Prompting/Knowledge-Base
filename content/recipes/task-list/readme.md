@@ -14,8 +14,8 @@
 
 Результат:
 
-<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/recipes/task-list/media/screenshot-tasks-light.png#gh-light-mode-only" width="70%" height="70%">
-<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/recipes/task-list/media/screenshot-tasks-dark.png#gh-dark-mode-only" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/task-list/media/screenshot-tasks-light.png#gh-light-mode-only" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/task-list/media/screenshot-tasks-dark.png#gh-dark-mode-only" width="70%" height="70%">
 
 ## Что может пойти не так
 ЧатГПТ может предложить длинный список из слишком общих пунктов. Если вам не подходит большая часть списка, попробуйте переформулировать промт и добавить в него больше контекста.
