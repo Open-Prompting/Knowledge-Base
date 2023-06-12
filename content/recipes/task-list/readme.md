@@ -1,5 +1,5 @@
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/cover-task-list-dark.svg#gh-dark-mode-only)
-![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/cover-task-list-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/task-list/media/cover-task-list-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/task-list/media/cover-task-list-light.svg#gh-light-mode-only)
 
 # Составить список задач по проектированию интерфейса
 Допустим, вы разрабатываете дизайн мобильного приложения для сервиса доставки еды. Чтобы оценить, сколько времени займёт проект, сначала потребуется определить объём работы. Попросите ЧатГПТ составить список задач для вашего проекта.
