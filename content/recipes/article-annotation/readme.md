@@ -12,6 +12,7 @@
 
 Результат:
 
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/article-annotation/media/article-annotation-light.png" width="70%" height="70%">
 
 
 ## Что может пойти не так
