@@ -16,8 +16,8 @@
 
 Результат:
 
-<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/project-decomposition/media/screenshot-project-decomposition-light.png#gh-light-mode-only" width="70%" height="70%">
-<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/project-decomposition/media/screenshot-project-decomposition-dark.png#gh-dark-mode-only" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/project-decomposition/media/project-decomposition-dark.png#gh-light-mode-only" width="70%" height="70%">
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/project-decomposition/media/project-decomposition-light.png#gh-dark-mode-only" width="70%" height="70%">
 
 ## Что может пойти не так
 ЧатГПТ может недостаточно детально декомпозировать сложную задачу. Если нейросеть предложила неполный и недостаточно подробный план, примените итеративный подход. Попросите ЧатГПТ разбить задачу на несколько промежуточных и декомпозируйте каждую из них отдельно.
