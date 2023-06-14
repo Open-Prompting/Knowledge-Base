@@ -7,14 +7,14 @@
 
 Пошаговые инструкции, которые решают типичные рутинные задачи.
 
-* [Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
-* [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
+* [Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet/)
+* [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor/)
 * [Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan/)
 * [Создать «рыбный текст» для дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
-* [Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server)
-* [Составить аннотацию к длинной статье](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/article-annotation)
-* [Сделать черновик декомпозиции задачи по проекту](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/project-decomposition)
-* [Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list)
+* [Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server/)
+* [Составить аннотацию к длинной статье](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/article-annotation/)
+* [Сделать черновик декомпозиции задачи по проекту](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/project-decomposition/)
+* [Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list/)
 
 ## Приёмы (скоро)
 Базовые подходы к общению с нейросетями. Этот раздел появится позже.
@@ -30,7 +30,7 @@
 
 [Руководство автора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/contributing)
 
-[Редполитика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy)
+[Редполитика](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/articles/policy/)
 
 ## О проекте
 Первая версия базы знаний сделана [в Школе Бюро Горбунова](https://bureau.ru/school) в 2023 году. 
