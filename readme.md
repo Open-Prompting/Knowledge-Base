@@ -21,7 +21,7 @@
 
 * [Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/)
 * [Дать инструкцию](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/)
-* Промт с образцом
+* Дать образец
 * Комбинирование разных приёмов
 
 ## Стать автором
