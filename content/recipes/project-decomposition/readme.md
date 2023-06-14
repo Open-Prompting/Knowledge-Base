@@ -1,3 +1,6 @@
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/project-decomposition/media/cover-project-decomposition-light.svg#gh-light-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/project-decomposition/media/cover-project-decomposition-dark.svg#gh-dark-mode-only)
+
 # Сделать черновик декомпозиции задачи по проекту
 Допустим, вы хотите интегрировать СРМ-систему с программой 1С, чтобы создавать счета для клиентов. Чтобы понять, сколько ресурсов уйдёт на этот проект и какие понадобятся инструменты и специалисты, задачу придётся декомпозировать. Нейросети быстрее людей разбивают сложные задачи на более простые. Попросите ЧатГПТ написать черновик декомпозиции задачи по проекту.
 
