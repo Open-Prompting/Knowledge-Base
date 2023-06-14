@@ -52,13 +52,13 @@
 
 [Злым Марсианам](https://github.com/evilmartians/mono) — за шрифт «Martian Mono». 
 
-Спасибо за помощь в продвижении:
+Спасибо за помощь в продвижении телеграм-каналам:
 
-[телеграм-каналу «Секс, Смерть и IT»](https://t.me/SexDeathIT),
+[Секс, Смерть и IT](https://t.me/SexDeathIT),
 
-[телеграм-каналу «Сообщество руководителей»](https://t.me/fffworks),
+[Сообщество руководителей](https://t.me/fffworks),
 
-[телеграм-каналу «Точка сингуларности»](https://t.me/singularityp0int).
+[Точка сингуларности](https://t.me/singularityp0int).
 
 
 
