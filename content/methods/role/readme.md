@@ -4,11 +4,14 @@
 ```
 Картина Ван Гога: подсолнухи в вазе.
 ```
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/methods/role/media/van-gogh.png" width="70%" height="70%">
+
 
 Ролевой промт заменит более сложную и развёрнутую инструкцию:
 ```
 Картина маслом: на фоне голубая стена в четыре пятые полтона, в центре ваза с желто-красными подсолнухами
 ```
+<img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/methods/role/media/like-van-gogh.png" width="70%" height="70%">
 
 ## Как применить приём 
 Чтобы задать ролевую модель, назовите нейросети имя или профессию человека, который лучше всего справился бы с задачей. Начните промт со слов `представь, что ты…` или `действуй как…`.
