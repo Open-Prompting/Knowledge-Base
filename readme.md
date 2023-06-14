@@ -22,7 +22,7 @@
 * [Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/)
 * [Дать инструкцию](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/)
 * Дать образец
-* Комбинирование разных приёмов
+* Совместить приёмы
 
 ## Стать автором
 
@@ -52,11 +52,13 @@
 
 [Злым Марсианам](https://github.com/evilmartians/mono) — за шрифт «Martian Mono». 
 
-[Телеграм каналу «Секс, Смерть и IT»](https://t.me/SexDeathIT) — за помощь в продвижении.
+Спасибо за помощь в продвижении:
 
-[Телеграм каналу «Сообщество руководителей»](https://t.me/fffworks) — за помощь в продвижении.
+[каналу «Секс, Смерть и IT»](https://t.me/SexDeathIT,
 
-[Телеграм каналу «Точка сингуларности»](https://t.me/singularityp0int) — за помощь в продвижении.
+[каналу «Сообщество руководителей»](https://t.me/fffworks) — за помощь в продвижении.
+
+[каналу «Точка сингуларности»](https://t.me/singularityp0int) — за помощь в продвижении.
 
 
 
