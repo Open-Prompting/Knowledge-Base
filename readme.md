@@ -19,8 +19,8 @@
 ## Приёмы (скоро)
 Базовые подходы к общению с нейросетями. Этот раздел появится позже.
 
-* [Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/readme.md)
-* [Дать инструкцию](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/readme.md)
+* [Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/)
+* [Дать инструкцию](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/)
 * Промт с образцом
 * Комбинирование разных приёмов
 
