@@ -18,7 +18,7 @@
 Другой способ задать роль — описать ситуацию или собеседника нейросети: `представь, что разговариваешь с ребёнком`.
 
 ## Что может пойти не так
-Нейросеть может не знать фигуру, которой должна подражать. Так, ЧатГПТ обучался преимущественно на английских текстах, поэтому лучше знаком с англоязычными фигурами, а не российскими:
+Нейросеть может не знать роль, которую должна исполнить. Так, ЧатГПТ обучался преимущественно на английских текстах, поэтому лучше знаком с англоязычными фигурами, а не российскими:
 
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/media/screenshot-role-editor-light.png#gh-light-mode-only" width="70%" height="70%">
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/media/screenshot-role-editor-dark.png#gh-dark-mode-only" width="70%" height="70%">
