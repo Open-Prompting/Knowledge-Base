@@ -37,9 +37,9 @@
 
 ## Приёмы (скоро)
 
-Простой промт
+[Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/readme.md)
 
-Ролевой промт
+Простой промт
 
 Промт с инструкцией
 
