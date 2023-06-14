@@ -23,8 +23,8 @@
 
 [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
 
-[Сделать черновик декомпозиции задачи по проекту](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/project-decomposition)
+[Сделать черновик декомпозиции задачи по проекту](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/project-decomposition)
 
-[Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
+[Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
 
-[Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list])
+[Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list])
