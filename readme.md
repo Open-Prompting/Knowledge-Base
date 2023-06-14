@@ -20,8 +20,7 @@
 Базовые подходы к общению с нейросетями. Этот раздел появится позже.
 
 * [Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/readme.md)
-* Простой промт
-* Промт с инструкцией
+* [Дать инструкцию](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/readme.md)
 * Промт с образцом
 * Комбинирование разных приёмов
 
