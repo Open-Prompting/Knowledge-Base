@@ -35,7 +35,7 @@
 
 
 
-## Приёмы (скоро)
+## Приёмы
 
 [Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/readme.md)
 
