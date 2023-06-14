@@ -21,7 +21,7 @@
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/methods/role/media/role-editor-light.png#gh-light-mode-only" width="70%" height="70%">
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/testing/content/methods/role/media/role-editor-dark.png#gh-dark-mode-only" width="70%" height="70%">
 
-Нейросеть недостаточно знает про Максима Ильяхова, поэтому такая роль её запутывает. Про книгу Странка ЧатГПТ знает и с этой ролью справляется лучше. Если вовсе не присвоить роль, нейросеть не догадается, в чём проблема фразы «футболист нанёс удар по мячу».
+Нейросеть недостаточно знает про Максима Ильяхова, поэтому такая роль её путает. Про книгу Странка ЧатГПТ знает и с этой ролью справляется лучше. Если вовсе не присвоить роль, нейросеть не догадается, в чём проблема фразы «футболист нанёс удар по мячу».
 
 ## Рецепты с ролевым промтом
 [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
