@@ -25,6 +25,6 @@
 Если ЧатГПТ не справляется с проблемой, попробуйте ему помочь. Например, если найдёте подсказку в интернете, дайте её ЧатуГПТ.
 
 ## В этой статье
-Приёмы: `[Дать инструкцию](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/)`
+Приёмы: [`дать инструкцию`](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/)`
 
 Инструменты: `ChatGPT`
