@@ -27,4 +27,4 @@
 
 [Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
 
-[Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list])
+[Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list)
