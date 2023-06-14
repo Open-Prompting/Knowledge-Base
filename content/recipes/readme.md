@@ -19,3 +19,5 @@
 ### **Дизайнеру**
 
 [Создать «рыбный текст» текста для дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
+
+[https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list)
