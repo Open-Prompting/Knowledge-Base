@@ -1,3 +1,6 @@
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/article-annotation/media/cover-article-annotation-dark.svg#gh-dark-mode-only)
+![cover](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/recipes/article-annotation/media/cover-article-annotation-light.svg#gh-light-mode-only)
+
 # Составить аннотацию к длинной статье
 Допустим, вы ищете статьи для изучения новой темы. Даже беглый просмотр каждого документа отнимает время. Быстрее это сделает Ask Your PDF. Это приложение на базе ЧатаГПТ анализирует текст и отвечает на вопросы по его содержанию.
 
