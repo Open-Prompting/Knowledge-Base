@@ -15,3 +15,16 @@
  — формат результата: короткий текст, таблица, список.
 
  Если в инструкции недостаточно контекста, то нейросеть неправильно поймёт задачу и даст ошибочный ответ. Например, если задача — сгенерировать текст в инфостиле, но в инструкции нет подробных указаний, что это за стиль, ЧатГПТ не справится с задачей.
+
+## Рецепты с инструкциями
+[Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server)
+
+[https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan)
+
+[Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
+
+[Сделать черновик декомпозиции задачи по проекту](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/project-decomposition)
+
+[Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
+
+[Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list])
