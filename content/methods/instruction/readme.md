@@ -19,7 +19,7 @@
 ## Рецепты с инструкциями
 [Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server)
 
-[https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan)
+[Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan)
 
 [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
 
