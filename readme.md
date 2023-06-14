@@ -11,7 +11,7 @@
 * [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
 * [Написать черновик контент-плана](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/draft-plan/)
 * [Создать «рыбный текст» для дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
-* [Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server)
+* [Починить веб-сервер без администратора](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/debug-server)
 * [Составить аннотацию к длинной статье](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/article-annotation)
 * [Сделать черновик декомпозиции задачи по проекту](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/project-decomposition)
 * [Составить список задач по проектированию интерфейса](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/task-list)
