@@ -16,7 +16,7 @@
 
 Другой способ задать роль — описать ситуацию или собеседника нейросети: `представь, что разговариваешь с ребёнком`.
 
-Нейросеть может не знать роль, которую должна исполнить. Так, ЧатГПТ обучался преимущественно на английских текстах, поэтому знаком с англоязычными редакторами, а не российских знает не всегда:
+Нейросеть может не знать роль, которую вы предлагаете. Так, ЧатГПТ обучался преимущественно на английских текстах, поэтому знаком с англоязычными редакторами, а не российских знает не всегда:
 
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/media/screenshot-role-editor-light.png#gh-light-mode-only" width="70%" height="70%">
 <img src="https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/media/screenshot-role-editor-dark.png#gh-dark-mode-only" width="70%" height="70%">
