@@ -1,6 +1,6 @@
 # Рецепты
 
-### **Руководителю**
+### Руководителю
 
 [Собрать данные и вывести их в таблицу](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/spreadsheet)
 
@@ -8,7 +8,7 @@
 
 [Сделать черновик декомпозиции задачи по проекту](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/project-decomposition)
 
-### **Редактору**
+### Редактору
 
 [Подобрать метафору для сложного термина](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/metaphor)
 
@@ -16,7 +16,7 @@
 
 [Составить аннотацию к длинной статье](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/article-annotation)
 
-### **Дизайнеру**
+### Дизайнеру
 
 [Создать «рыбный текст» текста для дизайнерского макета](https://github.com/Open-Prompting/Knowledge-Base/tree/main/content/recipes/placeholder-text/)
 
