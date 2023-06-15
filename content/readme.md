@@ -37,9 +37,9 @@
 
 ## Приёмы
 
-[Задать роль](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/role/readme.md)
+Задать роль
 
-[Дать инструкцию](https://github.com/Open-Prompting/Knowledge-Base/blob/main/content/methods/instruction/)
+Дать инструкцию
 
 Промт с образцом
 
